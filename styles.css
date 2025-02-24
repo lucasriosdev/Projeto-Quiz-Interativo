@@ -30,7 +30,7 @@ button {
     display: block;
     padding: 10px;
     border: none;
-    background-color: #1e4a6b;
+    background-color: #b50c00;
     color: white;
     font-size: 16px;
     cursor: pointer;
@@ -39,7 +39,7 @@ button {
 }
 
 button:hover {
-    background-color: #163955;
+    background-color: #e3730b;
 }
 
 .hidden {
