@@ -71,6 +71,19 @@ button:hover {
 }
 
 
+@media (max-width: 768px) {
+    .container {
+        flex-direction: column;
+        height: auto;
+    }
+
+    .quiz-section,
+    .info-section {
+        width: 100%;
+        padding: 30px;
+    }
+}
+
 
 
 #restart-btn {
